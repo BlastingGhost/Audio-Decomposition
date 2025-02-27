@@ -1,3 +1,8 @@
+
+声明：此项目只用来本人学习
+Disclaimer: This project is for personal learning purposes only.
+
+
 # Audio Decomposition
 Blog post: [https://matthew-bird.com/blogs/Audio-Decomposition.html](https://matthew-bird.com/blogs/Audio-Decomposition.html)
 
